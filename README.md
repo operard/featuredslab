@@ -1,6 +1,6 @@
-# featuredslab
+# Feature DataStore Lab
 
-Feature DataStore Lab
+Feature DataStore Lab with Hopsworks.ai
 
 ## Introduction
 Explore how to deploy an open source Feature DataStore to Oracle Cloud Infrastructure.
